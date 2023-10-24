@@ -10832,7 +10832,8 @@ header.masthead .post-heading .meta a {
 .post-content {
   font-weight: 400;
   font-size: 1.25rem;
-  margin: auto;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
   margin-top: 1.0rem;
 }
 .main-heading {
